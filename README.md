@@ -71,7 +71,7 @@ Feel free to fork this repository and contribute by submitting pull requests. Fo
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any issues or questions, please reach out via [your-email@example.com] or open an issue on GitHub.
+For any issues or questions, please reach out via ap2142004@gmail.com or open an issue on GitHub.
 
 ---
 Happy Coding! 🎧🗣
